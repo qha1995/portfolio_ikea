@@ -1,3 +1,5 @@
+@use 'common';
+
 .Customer {
     word-break: keep-all;
 
@@ -14,6 +16,7 @@
         font-size: 4rem;
         font-weight: 900;
         margin: 0 0 2rem 0;
+        color: common.$mainColor;
     }
 
     .open {
@@ -33,8 +36,8 @@
 
         i {
             padding: 1rem;
-            background: #333;
-            color: #fff;
+            background: common.$mainColor;
+            color: common.$subColor ;
             font-size: 1.5rem;
             border-radius: 50%;
         }

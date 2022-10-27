@@ -148,7 +148,7 @@
             }
 
             &.slick-active button {
-                background: tomato;
+                background: common.$subColor;
             }
         }
     }
@@ -197,7 +197,8 @@
         left: 0;
         transform: translateX(-100%);
         padding: 1rem;
-        background: #ddd;
+        background: common.$subColor;
+        color: common.$mainColor;
 
         &.on {
             transform: translateX(-100%) rotate(180deg);

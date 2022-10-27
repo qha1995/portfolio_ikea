@@ -7,20 +7,24 @@
     right: 0;
     z-index: 1000;
     line-height: 7.9rem;
-    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+    color: common.$wColor;
+    text-shadow: 1px 1px rgba(0, 0, 0, 0.2);
 
     &.on .gnb {
-        background: common.$wColor;
+        background: common.$bColor;
     }
 
     .gnb {
         position: relative;
         transition: 0.5s;
 
+
         ul {
             display: flex;
             gap: 40px;
             font-size: 1.5rem;
+
 
             li {
                 position: relative;
@@ -28,13 +32,14 @@
 
             .list {
                 text-transform: uppercase;
-                color: rgba(0, 0, 0, 0.75);
+                color: common.$wColor;
             }
 
             &.rt {
                 gap: 20px;
                 font-size: 2.5rem;
-                color: rgba(0, 0, 0, 0.35);
+                color: common.$wColor;
+                ;
 
                 span {
                     position: absolute;
@@ -45,7 +50,7 @@
                     top: 1.5rem;
                     right: -1rem;
                     background: common.$mainColor;
-                    color: common.$wColor;
+                    color: common.$subColor;
                     border-radius: 50%;
                     line-height: 0.8;
                     text-align: center;
@@ -57,7 +62,12 @@
     h1 {
         position: absolute;
         top: 0;
-        left: 8rem;
+        left: 14rem;
+        font-size: 0;
+
+        img {
+            height: 79px;
+        }
     }
 
     .rt {
