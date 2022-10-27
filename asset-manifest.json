@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ikea/static/css/main.9f033b79.css",
+    "main.js": "/ikea/static/js/main.6acbc0fd.js",
+    "static/media/main_m03.jpg": "/ikea/static/media/main_m03.5a2da6684ae8af865c86.jpg",
+    "static/media/main_m02.jpg": "/ikea/static/media/main_m02.0b30e767e261ac3da563.jpg",
+    "static/media/main_m01.jpg": "/ikea/static/media/main_m01.ab9d1d7a2d08cd0c8dc4.jpg",
+    "index.html": "/ikea/index.html",
+    "main.9f033b79.css.map": "/ikea/static/css/main.9f033b79.css.map",
+    "main.6acbc0fd.js.map": "/ikea/static/js/main.6acbc0fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f033b79.css",
+    "static/js/main.6acbc0fd.js"
+  ]
+}
