@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio_ikea/static/css/main.809ac7a8.css",
-    "main.js": "/portfolio_ikea/static/js/main.37a3ff19.js",
-    "static/media/main_m03.jpg": "/portfolio_ikea/static/media/main_m03.5a2da6684ae8af865c86.jpg",
-    "static/media/main_m02.jpg": "/portfolio_ikea/static/media/main_m02.0b30e767e261ac3da563.jpg",
-    "static/media/main_m01.jpg": "/portfolio_ikea/static/media/main_m01.ab9d1d7a2d08cd0c8dc4.jpg",
+    "main.css": "/portfolio_ikea/static/css/main.691f1474.css",
+    "main.js": "/portfolio_ikea/static/js/main.6c8ba0bf.js",
+    "static/media/main_m01.jpg": "/portfolio_ikea/static/media/main_m01.28773bce829ceda82d2e.jpg",
+    "static/media/main_m02.jpg": "/portfolio_ikea/static/media/main_m02.374eb50f9c7f48c6c14e.jpg",
+    "static/media/main_m03.jpg": "/portfolio_ikea/static/media/main_m03.502e65c4b647e707af04.jpg",
     "index.html": "/portfolio_ikea/index.html",
-    "main.809ac7a8.css.map": "/portfolio_ikea/static/css/main.809ac7a8.css.map",
-    "main.37a3ff19.js.map": "/portfolio_ikea/static/js/main.37a3ff19.js.map"
+    "main.691f1474.css.map": "/portfolio_ikea/static/css/main.691f1474.css.map",
+    "main.6c8ba0bf.js.map": "/portfolio_ikea/static/js/main.6c8ba0bf.js.map"
   },
   "entrypoints": [
-    "static/css/main.809ac7a8.css",
-    "static/js/main.37a3ff19.js"
+    "static/css/main.691f1474.css",
+    "static/js/main.6c8ba0bf.js"
   ]
 }
